@@ -70,12 +70,4 @@ The project followed a **structured consulting framework**, mirroring BCG best p
 
 ---
 
-## How to Explore
-1. **Start with this README** for overview  
-2. **Review analysis notebooks** for methodology and calculations  
-3. **Check visuals** for quick insights  
-4. **Read the report or slide deck** for a polished consulting-style deliverable  
-
----
-
 > This project simulates a real BCG consulting engagement and demonstrates the application of **data-driven strategy, financial analysis, and client-ready recommendations**.
