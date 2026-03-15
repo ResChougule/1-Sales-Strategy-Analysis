@@ -18,8 +18,20 @@ This project simulates a **consulting engagement** with a global technology and 
 
 ---
 
-## Approach & Methodology
-The project followed a **structured consulting framework**, mirroring BCG best practices:
+# Approach & Methodology
+## Background Information
+- 
+## Market Research
+- 
+## Financial Modeling
+1. Review the financial statements 
+2. Evaluate the year-over-year changes to notable finance metrics 
+3. Complete and upload the attached slide
+
+
+
+
+# The project followed a **structured consulting framework**, mirroring BCG best practices:
 
 ### 1. Market & Competitor Analysis
 - Collected financial and sales data of competitors offering installment plans  
