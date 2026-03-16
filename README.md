@@ -18,6 +18,49 @@ This project simulates a **consulting engagement** with a global technology and 
 
 ---
 
+## Project Structure
+
+```
+forage-bcg-beyondtech-case
+│
+├── README.md
+│
+├── background/
+│   └── project_context.md
+│
+├── market_analysis/
+│   ├── competitor_financials.csv
+│   └── market_analysis_notebook.ipynb
+│
+├── financial_modeling/
+│   └── installment_financing_model.ipynb
+│
+├── survey_insights/
+│   ├── customer_survey.csv
+│   └── customer_analysis.ipynb
+│
+├── stakeholder_analysis/
+│   └── stakeholder_considerations.md
+│
+├── visuals/
+│   ├── competitor_comparison_chart.png
+│   ├── customer_payment_preferences.png
+│   ├── revenue_growth_simulation.png
+│   └── risk_heatmap.png
+│
+├── report/
+│   └── beyondtech_case_study.pdf
+│
+└── presentation/
+    └── beyondtech_strategy_deck.pdf
+```
+
+
+
+
+
+
+
 # Approach & Methodology
 ## Background Information
 - 
