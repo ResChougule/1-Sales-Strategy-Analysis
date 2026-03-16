@@ -95,6 +95,9 @@ BeyondTech is a global telecommunications company experiencing declining custome
 
 This section analyzes industry competitors who have implemented installment financing models and evaluates their financial performance and retention outcomes.
 
+## Research Tasks
+
+- [Installment Financing Research](./research_installment_financing.md) – Evaluate consumer preferences, financial impact, and anticipated challenges.
 ---
 
 ## 3. Financial Modeling
