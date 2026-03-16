@@ -1,5 +1,7 @@
-# BeyondTech Sales Strategy Analysis  
-**Forage BCG Strategy Consulting Virtual Internship**
+# BeyondTech Sales Strategy Analysis 
+-About-## Background Information
+
+Learn more about BeyondTech: [Company Overview](./background_information.md)**Forage BCG Strategy Consulting Virtual Internship**
 ----
 ## Tools Used
 
