@@ -163,8 +163,25 @@ our next steps are to:
 [![Open Excel File](https://img.shields.io/badge/View-Excel%20File-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/ResChougule/forage-bcg-beyondtech-case/blob/main/Strategy%20Consulting_Company%20Financials%20(1).xlsx)
 
 
+# Installment Financing Impact Framework
 
----
+This framework outlines the potential short-term and long-term effects of implementing installment financing, helping analyze revenue, profit, costs, and cash flow.
+
+## Short-Term Impact
+- **Revenue:** Likely to increase as offerings become more accessible, improving customer conversion.  
+- **Profit:** May be slightly pressured due to setup costs and credit risk management.  
+- **Costs & Cash Flow:**  
+  - **Costs:** Rise due to financing infrastructure setup.  
+  - **Cash:** Tightens as upfront payments shift to receivables.  
+
+## Long-Term Impact
+- **Revenue & Profit:** Strong growth potential as customer loyalty improves and operations scale efficiently.  
+- **Costs & Cash Flow:**  
+  - **Costs:** Normalize as processes mature.  
+  - **Cash Flow:** Stabilizes or improves with predictable repayments or financing partnerships.  
+
+## Key Takeaway
+Installment financing has short-term trade-offs, such as higher costs and cash pressure, but can drive **sustainable long-term revenue growth and profitability** if credit risks are effectively managed.---
 
 
 
