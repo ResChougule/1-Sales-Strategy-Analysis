@@ -55,9 +55,18 @@ forage-bcg-beyondtech-case
     └── beyondtech_strategy_deck.pdf
 ```
 
+--------
+## Table of Contents
 
-
-
+- [Background Information](#1-background-information)
+- [Market & Competitor Analysis](#2-market--competitor-analysis)
+- [Financial Modeling](#3-financial-modeling)
+- [Customer Survey & Insights](#4-customer-survey--insights)
+- [Stakeholder Considerations](#5-stakeholder-considerations)
+- [Visual Analysis & Data Insights](#6-visual-analysis--data-insights)
+- [Consulting Report](#7-consulting-report)
+- [Executive Presentation](#8-executive-presentation)
+- [Project Structure](#project-structure)
 
 
 
