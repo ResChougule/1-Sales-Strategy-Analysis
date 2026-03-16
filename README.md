@@ -124,7 +124,7 @@ Installment financing can drive adoption, retention, and revenue while keeping B
    - Late/missed payments possible  
    - Operational readiness and brand image need monitoring  
 
-</> markdown
+
 | Metric                    | Current   | Expected with Installment | Impact          |
 | ------------------------- | --------- | ------------------------- | --------------- |
 | Sales volume              | 100,000   | 115,000                   | +15%            |
@@ -132,7 +132,7 @@ Installment financing can drive adoption, retention, and revenue while keeping B
 | Average upgrade frequency | 24 months | 18 months                 | Faster upgrades |
 
 
-*“Sources / Evidence”*
+** Sources **
 
 - Always reference articles, competitor case studies, or reports:
 - “According to TechCo 2022 Annual Report, installment financing increased repeat purchases by 12%.”
