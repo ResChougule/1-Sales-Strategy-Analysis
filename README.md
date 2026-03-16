@@ -11,6 +11,41 @@
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 ![Email Communication](https://img.shields.io/badge/Email-Communication-blue?style=for-the-badge)---
 
+--------
+
+## Skills Developed
+
+### Strategic & Business Analysis
+![Contextual Understanding](https://img.shields.io/badge/Contextual%20Understanding-Strategy-blue?style=for-the-badge)
+![Trend Analysis](https://img.shields.io/badge/Trend%20Analysis-Business%20Insight-blue?style=for-the-badge)
+![Competitive Review](https://img.shields.io/badge/Competitive%20Review-Market%20Research-blue?style=for-the-badge)
+![Benchmarking](https://img.shields.io/badge/Benchmarking-Performance%20Analysis-blue?style=for-the-badge)
+![Impact Forecasting](https://img.shields.io/badge/Impact%20Forecasting-Strategic%20Planning-blue?style=for-the-badge)
+![Trade-off Analysis](https://img.shields.io/badge/Trade--off%20Analysis-Decision%20Making-blue?style=for-the-badge)
+
+### Data & Analytical Skills
+![Data Literacy](https://img.shields.io/badge/Data%20Literacy-Analytics-green?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Analytics-green?style=for-the-badge)
+![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-Data%20Science-green?style=for-the-badge)
+![Data Summary](https://img.shields.io/badge/Data%20Summary-Reporting-green?style=for-the-badge)
+![Data Synthesis](https://img.shields.io/badge/Data%20Synthesis-Insights-green?style=for-the-badge)
+
+### Customer & Market Insights
+![Customer Analytics](https://img.shields.io/badge/Customer%20Analytics-Consumer%20Insights-orange?style=for-the-badge)
+![Question Development](https://img.shields.io/badge/Question%20Development-Research-orange?style=for-the-badge)
+
+### Stakeholder & Communication Skills
+![Stakeholder Analysis](https://img.shields.io/badge/Stakeholder%20Analysis-Business%20Strategy-purple?style=for-the-badge)
+![Message Customization](https://img.shields.io/badge/Message%20Customization-Communication-purple?style=for-the-badge)
+![Advisory Services](https://img.shields.io/badge/Advisory%20Services-Consulting-purple?style=for-the-badge)
+
+
+
+
+
+
+
+
 ## Executive Summary
 This project simulates a **consulting engagement** with a global technology and telecommunications company, **BeyondTech**, to address declining sales growth and customer retention. The focus was evaluating the **viability of installment financing** as a strategic lever to drive revenue, adoption, and loyalty.  
 
