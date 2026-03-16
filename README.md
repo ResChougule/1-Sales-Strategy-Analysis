@@ -158,8 +158,9 @@ our next steps are to:
 2. Evaluate the year-over-year changes to notable finance metrics 
 3. Complete and upload the attached sli
 
+### 📁 View Excel File
 
-
+[![Open Excel File](https://img.shields.io/badge/View-Excel%20File-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/ResChougule/forage-bcg-beyondtech-case/blob/main/Strategy%20Consulting_Company%20Financials%20(1).xlsx)
 
 
 
