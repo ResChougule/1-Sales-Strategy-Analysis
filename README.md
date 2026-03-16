@@ -1,40 +1,19 @@
 # BeyondTech Sales Strategy Analysis  
 **Forage BCG Strategy Consulting Virtual Internship**
 ----
+## Tools Used
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Email Communication](https://img.shields.io/badge/Email-Communication-blue?style=for-the-badge)---
+
+
+
+
 --------
-
-## Skills Developed
-
-### Strategic & Business Analysis
-![Contextual Understanding](https://img.shields.io/badge/Contextual%20Understanding-Strategy-blue?style=for-the-badge)
-![Trend Analysis](https://img.shields.io/badge/Trend%20Analysis-Business%20Insight-blue?style=for-the-badge)
-![Competitive Review](https://img.shields.io/badge/Competitive%20Review-Market%20Research-blue?style=for-the-badge)
-![Benchmarking](https://img.shields.io/badge/Benchmarking-Performance%20Analysis-blue?style=for-the-badge)
-![Impact Forecasting](https://img.shields.io/badge/Impact%20Forecasting-Strategic%20Planning-blue?style=for-the-badge)
-![Trade-off Analysis](https://img.shields.io/badge/Trade--off%20Analysis-Decision%20Making-blue?style=for-the-badge)
-
-### Data & Analytical Skills
-![Data Literacy](https://img.shields.io/badge/Data%20Literacy-Analytics-green?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Analytics-green?style=for-the-badge)
-![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-Data%20Science-green?style=for-the-badge)
-![Data Summary](https://img.shields.io/badge/Data%20Summary-Reporting-green?style=for-the-badge)
-![Data Synthesis](https://img.shields.io/badge/Data%20Synthesis-Insights-green?style=for-the-badge)
-
-### Customer & Market Insights
-![Customer Analytics](https://img.shields.io/badge/Customer%20Analytics-Consumer%20Insights-orange?style=for-the-badge)
-![Question Development](https://img.shields.io/badge/Question%20Development-Research-orange?style=for-the-badge)
-
-### Stakeholder & Communication Skills
-![Stakeholder Analysis](https://img.shields.io/badge/Stakeholder%20Analysis-Business%20Strategy-purple?style=for-the-badge)
-![Message Customization](https://img.shields.io/badge/Message%20Customization-Communication-purple?style=for-the-badge)
-![Advisory Services](https://img.shields.io/badge/Advisory%20Services-Consulting-purple?style=for-the-badge)
-
-
-
-
-
-
-
 
 ## Executive Summary
 This project simulates a **consulting engagement** with a global technology and telecommunications company, **BeyondTech**, to address declining sales growth and customer retention. The focus was evaluating the **viability of installment financing** as a strategic lever to drive revenue, adoption, and loyalty.  
@@ -200,7 +179,33 @@ Survey data was analyzed to evaluate customer willingness to adopt installment p
 - Market and competitor benchmarking  
 - Customer research & survey analytics  
 - Financial modeling & scenario analysis  
-- Data visualization & executive presentation  
+- Data visualization & executive presentation
+## Skills Developed
+
+### Strategic & Business Analysis
+![Contextual Understanding](https://img.shields.io/badge/Contextual%20Understanding-Strategy-blue?style=for-the-badge)
+![Trend Analysis](https://img.shields.io/badge/Trend%20Analysis-Business%20Insight-blue?style=for-the-badge)
+![Competitive Review](https://img.shields.io/badge/Competitive%20Review-Market%20Research-blue?style=for-the-badge)
+![Benchmarking](https://img.shields.io/badge/Benchmarking-Performance%20Analysis-blue?style=for-the-badge)
+![Impact Forecasting](https://img.shields.io/badge/Impact%20Forecasting-Strategic%20Planning-blue?style=for-the-badge)
+![Trade-off Analysis](https://img.shields.io/badge/Trade--off%20Analysis-Decision%20Making-blue?style=for-the-badge)
+
+### Data & Analytical Skills
+![Data Literacy](https://img.shields.io/badge/Data%20Literacy-Analytics-green?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Analytics-green?style=for-the-badge)
+![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-Data%20Science-green?style=for-the-badge)
+![Data Summary](https://img.shields.io/badge/Data%20Summary-Reporting-green?style=for-the-badge)
+![Data Synthesis](https://img.shields.io/badge/Data%20Synthesis-Insights-green?style=for-the-badge)
+
+### Customer & Market Insights
+![Customer Analytics](https://img.shields.io/badge/Customer%20Analytics-Consumer%20Insights-orange?style=for-the-badge)
+![Question Development](https://img.shields.io/badge/Question%20Development-Research-orange?style=for-the-badge)
+
+### Stakeholder & Communication Skills
+![Stakeholder Analysis](https://img.shields.io/badge/Stakeholder%20Analysis-Business%20Strategy-purple?style=for-the-badge)
+![Message Customization](https://img.shields.io/badge/Message%20Customization-Communication-purple?style=for-the-badge)
+![Advisory Services](https://img.shields.io/badge/Advisory%20Services-Consulting-purple?style=for-the-badge)
+  
 
 ---
 
