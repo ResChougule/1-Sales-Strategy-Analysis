@@ -1,5 +1,5 @@
 # BeyondTech Sales Strategy Analysis 
-## Background Information
+###Background Information
 
 Learn more about BeyondTech: [Company Overview](./background_information.md)
 
