@@ -167,7 +167,7 @@ our next steps are to:
 [![Open Excel File](https://img.shields.io/badge/View-Excel%20File-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/ResChougule/forage-bcg-beyondtech-case/blob/main/Strategy%20Consulting_Company%20Financials%20(1).xlsx)
 
 
-# Installment Financing Impact Framework
+## Installment Financing Impact Framework
 
 This framework outlines the potential short-term and long-term effects of implementing installment financing, helping analyze revenue, profit, costs, and cash flow.
 
@@ -184,7 +184,7 @@ This framework outlines the potential short-term and long-term effects of implem
   - **Costs:** Normalize as processes mature.  
   - **Cash Flow:** Stabilizes or improves with predictable repayments or financing partnerships.  
 
-## Key Takeaway
+### Key Takeaway
 Installment financing has short-term trade-offs, such as higher costs and cash pressure, but can drive **sustainable long-term revenue growth and profitability** if credit risks are effectively managed.---
 
 
@@ -197,9 +197,7 @@ Installment financing has short-term trade-offs, such as higher costs and cash p
 This section presents a consumer survey designed to assess the viability and appeal of BeyondTech’s installment financing model. The survey aims to:
 
 1. Evaluate the overall attractiveness of installment plans.
-
 2. Identify which customer segments are most interested in installment options.
-
 3. Understand trade-offs customers are willing to make when choosing financing terms.
 
 Understanding trade-offs is critical, as customers may prefer 0% interest and no down payment, but compromises may be necessary. This survey helps identify which aspects—such as monthly payment amount, contract length, or upfront cost—are most important to consumers, enabling a financing model that balances customer appeal and profitability.
