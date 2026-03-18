@@ -74,15 +74,15 @@ forage-bcg-beyondtech-case
 --------
 ## Table of Contents
 
-Task 1. [Background Information](#1-background-information)
-Task 2. [Market & Competitor Analysis](#2-market--competitor-analysis)
-Task 3. [Financial Modeling](#3-financial-modeling)
-Task 4. [Customer Survey & Insights](#4-customer-survey--insights)
-Task 5. [Stakeholder Considerations](#5-stakeholder-considerations)
-Task 6. [Visual Analysis & Data Insights](#6-visual-analysis--data-insights)
-Task 7. [Consulting Report](#7-consulting-report)
-Task 8. [Executive Presentation](#8-executive-presentation)
-Task 9. [Project Structure](#project-structure)
+Task1. [Background Information](#1-background-information)
+Task2. [Market & Competitor Analysis](#2-market--competitor-analysis)
+Task3. [Financial Modeling](#3-financial-modeling)
+Task4. [Customer Survey & Insights](#4-customer-survey--insights)
+Task5. [Stakeholder Considerations](#5-stakeholder-considerations)
+Task6. [Visual Analysis & Data Insights](#6-visual-analysis--data-insights)
+Task7. [Consulting Report](#7-consulting-report)
+Task8. [Executive Presentation](#8-executive-presentation)
+Task9. [Project Structure](#project-structure)
 
 
 ## 1. Background Information
