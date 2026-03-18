@@ -85,7 +85,7 @@ forage-bcg-beyondtech-case
 9. Task - [Project Structure](#project-structure)
 
 
-## 1. Background Information
+# 1. Background Information
 ----
 
 At BCG, our purpose is to unlock the potential of those who advance the world. We do this by partnering with leading companies to help them solve their most complex challenges. Today, I’ll be helping stepping into the shoes of a BCG consultant to support our client, BeyondTech, a global technology and telecommunications leader.
@@ -95,7 +95,7 @@ The client company Information
 
 ---
 
-## 2. Market & Competitor Analysis
+# 2. Market & Competitor Analysis
 
 This section analyzes industry competitors who have implemented installment financing models and evaluates their financial performance and retention outcomes.
 
@@ -104,7 +104,7 @@ Resources- [![PDF Resources](https://img.shields.io/badge/View-PDF-blue?style=fo
 
 
 - [Installment Financing Research](./research_installment_financing.md) – Evaluate consumer preferences, financial impact, and anticipated challenges.
----
+
 
 ## An Email to the Project Leader using Pyramid Principle Structure
 
@@ -136,7 +136,7 @@ Thanks & Regards
 
 Reshma 
 
-----------
+
 
 | Metric                    | Current   | Expected with Installment | Impact          |
 | ------------------------- | --------- | ------------------------- | --------------- |
@@ -150,8 +150,9 @@ Reshma
 - Always reference articles, competitor case studies, or reports:
 - “According to TechCo 2022 Annual Report, installment financing increased repeat purchases by 12%.”
 
+--------------------
 
-## 3. Financial Modeling
+# 3. Financial Modeling
 
 Financial scenarios were created to simulate the impact of installment financing on revenue growth, adoption rates, and profitability.
 
@@ -187,11 +188,11 @@ This framework outlines the potential short-term and long-term effects of implem
 Installment financing has short-term trade-offs, such as higher costs and cash pressure, but can drive **sustainable long-term revenue growth and profitability** if credit risks are effectively managed.---
 
 
+--------------------------
 
+# 4. Customer Survey & Insights
 
-## 4. Customer Survey & Insights
-
-Purpose
+## Purpose
 
 This section presents a consumer survey designed to assess the viability and appeal of BeyondTech’s installment financing model. The survey aims to:
 
@@ -206,6 +207,10 @@ Understanding trade-offs is critical, as customers may prefer 0% interest and no
 ## Survey
 
 You can view or download the survey PDF here: [Survey.pdf](https://github.com/ResChougule/forage-bcg-beyondtech-case/blob/main/Survey.pdf)
+
+---------------
+
+
 
 # 5. Data Analysis
 
