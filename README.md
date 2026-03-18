@@ -79,7 +79,7 @@ forage-bcg-beyondtech-case
 3. Task - [Financial Modeling](#3-financial-modeling)
 4. Task - [Customer Survey & Insights](#4-customer-survey--insights)
 5. Task - [Data Analysis](#5-Data-Analysis) 
-6. Task - [Visual Analysis & Data Insights](#6-visual-analysis--data-insights)
+6. Task - [Knowing Your Audience](#6-Knowing-Your-Audience)
 7. Task - [ Report](#7-consulting-report)
 8. Task - [Executive Presentation](#8-executive-presentation)
 9. Task - [Project Structure](#project-structure)
