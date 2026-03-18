@@ -203,7 +203,7 @@ This section presents a consumer survey designed to assess the viability and app
 
 Understanding trade-offs is critical, as customers may prefer 0% interest and no down payment, but compromises may be necessary. This survey helps identify which aspects—such as monthly payment amount, contract length, or upfront cost—are most important to consumers, enabling a financing model that balances customer appeal and profitability.
 
-# Survey
+## Survey
 
 You can view or download the survey PDF here: [Survey.pdf](https://github.com/ResChougule/forage-bcg-beyondtech-case/blob/main/Survey.pdf)
 
