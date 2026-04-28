@@ -221,6 +221,8 @@ Focus on:
 [![Download PDF](https://img.shields.io/badge/Download-PDF-green?style=for-the-badge&logo=adobeacrobatreader)](https://raw.githubusercontent.com/ResChougule/1-Sales-Strategy-Analysis/main/Task%205_Survey%20Data%20(1).pdf)
 ------------------
 
+Analysis Result below 
+
 
 # 6. Knowing Your Audience
 
