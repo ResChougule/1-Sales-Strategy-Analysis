@@ -156,7 +156,7 @@ Reshma
 
 Financial scenarios were created to simulate the impact of installment financing on revenue growth, adoption rates, and profitability.
 
-our next steps are to: 
+My next steps are to: 
 
 1. Review the financial statements 
 2. Evaluate the year-over-year changes to notable finance metrics 
