@@ -168,17 +168,16 @@ My next steps are to:
 
 
 ## Installment Financing Impact Framework
-
 This framework outlines the potential short-term and long-term effects of implementing installment financing, helping analyze revenue, profit, costs, and cash flow.
 
-## Short-Term Impact
+### Short-Term Impact
 - **Revenue:** Likely to increase as offerings become more accessible, improving customer conversion.  
 - **Profit:** May be slightly pressured due to setup costs and credit risk management.  
 - **Costs & Cash Flow:**  
   - **Costs:** Rise due to financing infrastructure setup.  
   - **Cash:** Tightens as upfront payments shift to receivables.  
 
-## Long-Term Impact
+### Long-Term Impact
 - **Revenue & Profit:** Strong growth potential as customer loyalty improves and operations scale efficiently.  
 - **Costs & Cash Flow:**  
   - **Costs:** Normalize as processes mature.  
