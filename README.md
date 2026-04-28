@@ -222,7 +222,7 @@ Focus on:
 ------------------
 
 Analysis Result below 
-
+[![View Data Analysis Report](https://img.shields.io/badge/View-Data%20Analysis%20Report-blue?style=for-the-badge&logo=github)](https://github.com/ResChougule/1-Sales-Strategy-Analysis/blob/main/Data%20Analysis%20Results-%20Sales_Stategy%20.pdf)
 
 # 6. Knowing Your Audience
 
