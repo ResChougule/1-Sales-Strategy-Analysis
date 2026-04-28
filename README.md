@@ -218,8 +218,7 @@ Focus on:
 2. Decision Factors: What influences their choice to finance purchases.
 3. Drivers & Concerns: Key motivations and hesitations that should guide BeyondTech’s financing strategy.
 
-[![View Survey Data]([https://img.shields.io/badge/View-Survey%20Data-blue?style=for-the-badge)](https://github.com/ResChougule/forage-bcg-beyondtech-case/blob/main/Task%204_Survey%20Data%20(1).pdf)](https://github.com/ResChougule/1-Sales-Strategy-Analysis/blob/main/Task%205_Survey%20Data%20(1).pdf)
-
+[![Download PDF](https://img.shields.io/badge/Download-PDF-green?style=for-the-badge&logo=adobeacrobatreader)](https://raw.githubusercontent.com/ResChougule/1-Sales-Strategy-Analysis/main/Task%205_Survey%20Data%20(1).pdf)
 ------------------
 
 
