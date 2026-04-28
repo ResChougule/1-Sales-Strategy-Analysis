@@ -20,17 +20,17 @@ Learn more about BeyondTech: [Company Overview](./background_information.md)
 --------
 
 ## Executive Summary
-This project simulates a **consulting engagement** with a global technology and telecommunications company, **BeyondTech**, to address declining sales growth and customer retention. The focus was evaluating the **viability of installment financing** as a strategic lever to drive revenue, adoption, and loyalty.  
+This project simulates a consulting engagement with a global technology and telecommunications company, BeyondTech, addressing challenges of slowing sales growth and declining customer retention. The analysis focuses on whether offering installment financing could serve as an effective strategy to boost revenue, increase product adoption, and strengthen customer loyalty.  
 
-> **Objective:** Recommend an actionable, data-driven sales strategy that maximizes revenue while mitigating financial and operational risks.
-
+> **Objective:** To deliver a clear, data-driven sales strategy that enhances revenue while carefully managing financial and operational risks.
 ---
 
 ## Business Questions
-1. Is installment financing a viable strategy for BeyondTech?  
-2. How has it impacted competitors in terms of revenue and retention?  
-3. How do customers perceive installment payment options?  
-4. What operational and financial risks must be managed?  
+1. Is installment financing a practical and beneficial strategy for BeyondTech?
+2. What impact has this approach had on competitors’ revenue and customer retention?
+3. How do customers view and respond to installment payment options?
+4. What financial and operational risks need to be considered and controlled?
+
 
 ---
 
